@@ -1,0 +1,40 @@
+<body id="body">
+    <h1 id="h1"> Portpolio </h1>
+    <img id="h2" src="https://preview.redd.it/78o90350yzy21.png?auto=webp&s=f4ce073e6578ad74ce60446e9727ffff7284e303" 
+        alt="error"
+        style= "width: 300px; height: 150px;">
+    <h3 id="h2"> Name: Phạm Tuấn Kiệt </h3>
+    <h3 id="h2"> Age: 17  </h3>
+    <h3 id="h2"> School: Hong Bang High school </h3>
+    <h3 id="h2"> Hobbies: playing game </h3>
+    <h3 id="h2">Future: Millionaire </h3>
+    <button></button>
+    <iframe id="video" width="1280" height="720" src="https://www.youtube.com/embed/edyXK5LDUMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+
+
+
+css
+#body{
+    border-style: solid;
+    margin-right: 250px;
+    margin-left: 250px;
+  
+    background-image: url(https://birdfest.org/wp-content/uploads/2017/11/bo-hinh-nen-powerpoint.jpg);
+    background-size: 2000px 1500px;
+}
+#h1{
+    background-size: 100px;
+    font-size: 70px;
+    color: red;
+    border-style: solid;
+    margin-left: 500px;
+    margin-right: 610px;
+}
+#h2{
+    margin-left: 500px;
+    
+}
+#video{
+    margin-left: 40px;
+}
